@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act in favours of the undertakers of the cloath-manufactory at New Milns Edinburgh, the fourteenth day of August, 1685.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58680</idno>
+            <idno type="STC">Wing S1441</idno>
+            <idno type="STC">ESTC R23896</idno>
+            <idno type="EEBO-CITATION">07918722</idno>
+            <idno type="OCLC">ocm 07918722</idno>
+            <idno type="VID">40452</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58680)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40452)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1212:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act in favours of the undertakers of the cloath-manufactory at New Milns Edinburgh, the fourteenth day of August, 1685.</title>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"This may be reprinted, R.L.S. September the 4th, 1685, by E. Mallet."</note>
+                  <note>Signed: Will. Paterson, Cls. Sti. Concilii.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Foreign trade regulation --  Scotland.</term>
+               <term>Textile industry --  Scotland.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:40452:1"/>
+            <!-- PDF PAGE 16 -->
+            <head>
+               <figure>
+                  <q>DIEV ET MON DROIT</q>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>
+               <hi>ACT,</hi> In favours of the <g ref="char:V">Ʋ</g>ndertakers of the Cloath-Manufactory at <hi>New-Milns.</hi>
+            </head>
+            <opener>
+               <dateline>Edinburgh, <date>the fourteenth day of <hi>Auguſt,</hi> 1685.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch as there being an Addreſs, with a Memorial given into the Lords of His <hi>Majeſties</hi> Privy Council, by the Undertakers of the Cloath-Manufactory at <hi>New-Milns;</hi> both which being Remitted to a Committee of their Number, to Conſider thereof, and Report: And this day the Report made by the ſaid Committee, being fully Conſidered, The Lords of His <hi>Majeſties</hi> Privy Council, Do for the ſaid Manufactories Incouragement, Hereby give full Power and Warrand to the Undertakers therein, or thoſe to be intruſted by them, to ſeize on all foraign Cloath, and Searges, Silk-Gloves and Stockings, Silk and Worſted Stockings, which has been Imported into this Kingdom, contrary to Law, either before or after the Date hereof, to be diſpoſed of according to Law; And this bu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re<g ref="char:EOLhyphen"/>judice of Purſuit againſt Delinquents, for the three Months preceeding, and in time coming, as is preſcribed by the Acts of Parliament and Council; and do hereby ſtrictly Prohibit and Diſcharge all perſons whatſomever, either by Colluſi<g ref="char:EOLhyphen"/>on, or otherwiſe to Import, or Trafficque within this Kingdom, concerning the Conveying, Vending, or Selling any foraign Woolen-Cloath, and others aforeſaid within the ſame, under the Pains and Penalties made there againſt; De<g ref="char:EOLhyphen"/>claring that if any of the Undertakers of the ſaid Manufactory ſhall be found guilty aforeſaid, That they ſhall not only loſe and amit their Priviledge of the ſaid Manufacture, with all their Intereſt therein: but ſhall be otherwiſe puniſhed <unclear>as aforeſaid.</unclear> And <unclear>for the ſaid Manufactories further Encouragement, it is hereby Declared, That if they ſhall</unclear> with<g ref="char:EOLhyphen"/>in three Months Advertiſement, ſufficiently furniſh His <hi>Majeſties</hi> Officers and Souldiers, with Woolen-Cloath, of what Dy or Colour ſhall be ordered, and at ſuch a rate as by them ſhall be agreed upon (the Council being to determine the rate, in Caſe of any diſcrepance betwixt them) all further Importing of <hi>Engliſh</hi> Cloath, for furniſhing, as ſaid is, is hereby Diſcharged; And in caſe they fail, the Council is to ſee them provided, as they ſhall think fit; This being but prejudice of puniſhing the ſaids Undertakers, if they fail herein, as ſhall be Determined by the Council. And the ſaids Lords Do hereby allow the ſaids Undertakers to purſue the Tranſgreſſors aforeſaid, after the date hereof, before any Judge Competent; and for defraying their Charge and Expences of Plea, allow them the benefit of the Acts of Parliament and Council, being the half of the value of the Seizure; the other half being to come in to the King, ac<g ref="char:EOLhyphen"/>cording as ſhall be determined by the Judges: And for the Manufactures further Encouragement. The Lords do De<g ref="char:EOLhyphen"/>clare, that they will be every manner of way concurring and aſſiſting to them, according to Law; And as a firſt proof of their Encouragement, Do hereby Diſcharge the wearing of all Woolen-Cloath, and Searge, Silk-Stockings and Gloves, Silk and Worſted Stockings, and Worſted Stockings, except that which is Native, under the Pain and Penalty of five hundred Merks Scots Money for each Tranſgreſſion; the Tranſgreſſors being to be puniſhed as ſaid is, and the Penalty to be applyed to the ſaid Manufacture, or any other Informer, equally betwixt the King and Them, as ſhall be Determined by the Judge; The perſon or perſons challenged being alwiſe hereby obliged to Declare upon Oath, from whom they had any of the ſaids Prohibited Goods: And further Allow the wearing of all Native Woolen-Cloath, Searge, and others aforeſaid, conform to the Power given to the Council, by the late Act of Parliament, of the thir<g ref="char:EOLhyphen"/>teenth day of <hi>May</hi> laſt by-paſt; And Ordain all former Laws, and Acts of Parliament and Council, made in favours of Manufactures, for Encouragement of Trade, and Prohibiting the Importing of foraign Goods, to be put to full and vigorous Execution, by the perſons reſpectively intruſted, to that effect, as they will anſwer, under the Pains and Penalties therein contained. It is always hereby Provided and Declared, That theſe Preſents are not to hinder, or Impede any perſon or perſons, to wear out the Cloaths, and others aforeſaid, already made by them, or the wearing out of made Cloaths, brought into this Kingdom, and worn by them, where the perſons have been a conſiderable time abroad, without incurring the Certification aforeſaid. Requiring hereby all Magiſtrates, whether to Burgh or Land, to be concurring and aſſiſting to the ſaids Undertakers in the Premiſſes, as they will be anſwerable. And to the effect all perſons concerned may have notice hereof, and know their hazard, if they fail in any part of the Premiſſes, The ſaids Lords Ordains the Macers of Council, to paſs to the Mercat-Croſs of <hi>Edinburgh,</hi> and make publication here<g ref="char:EOLhyphen"/>of, that none pretend Ignorance.</p>
+            <closer>
+               <signed>Extracted by me. WILL. PATERSON, <hi>Cls. Sti. Concilij.</hi>
+               </signed>
+               <lb/>
+GOD ſave the KING</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred <hi>Majeſty,</hi> Anno <hi>Dom.</hi> 1685.</p>
+            <p>This may be Reprinted, <hi>R. L. S. September</hi> the 4th. 1685. by E. <hi>Mallet</hi> in <hi>Black-Horſe-Alley</hi> near <hi>Fleet-Bridge.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
